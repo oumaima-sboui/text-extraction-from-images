@@ -10,7 +10,7 @@
 
 ## About the project
 
-The purpose of this project is to detect text from images and extract it, we use images of different cards (passport, residence permit, identity card,..) which are taken  from the internet. 
+The goal of this project is to detect text from images and extract them, we use images of different cards (passport, residence permit, identity card,..) that are taken from the internet. . 
 
 
 ## Technologies and installation
@@ -38,13 +38,13 @@ pip install pymongo==3.5.1
 ```
 **Mongodb**  
 
-download from [here](https://www.mongodb.com/try/download/compass)
+Download from [here](https://www.mongodb.com/try/download/compass)
 
 
 ## Result
 
-the result is shown with two ways  :  
-*  [csv file]()
+the result is presented in two different ways :  
+*  [csv file](https://github.com/oumaima-sboui/text-extraction-from-images/blob/master/result.csv)
 *  database saved in Mongodb
 
 
